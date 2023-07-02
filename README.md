@@ -6,6 +6,9 @@ Eu sou Guilherme Weber, tenho 17 anos, nasci no Brasil, falo português e estou 
 <br>
 <i>I am Guilherme Weber, I am 17 years old, born in Brazil, speak Portuguese and am learning English. I am a student and passionate about software development and technologies. I have been self-studying for over a year and am about to start a computer science college. I am looking for my first opportunity as soon as possible.</i>
 
+<hr>
+
+<h1>Expertise</h1>
 <!--
 **Guiziin227/Guiziin227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
