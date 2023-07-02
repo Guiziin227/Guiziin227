@@ -31,12 +31,6 @@ Uma das minhas principais qualidades é a comunicação, com isso consigo trabal
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Guiziin227&show_icons=true&theme=radical)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Guiziin227" />
-</a>
-<a href="[https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiziin227&layout=compact&theme=radical)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guizzin227&layout=compact&langs_count=8&card_width=320" />
-</a>
 
-![Guiziin227's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiziin227&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiziin227&layout=compact&theme=radical)
+![Guiziin227's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiziin227&show_icons=true&theme=radical&height=200&align="center)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiziin227&layout=compact&theme=radical&height=200&align="center)
