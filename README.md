@@ -6,7 +6,8 @@ Eu sou Guilherme Weber, tenho 17 anos, nasci no Brasil, falo português e estou 
 
 
 <h1>📌Expertise</h1>
-One of my main qualities is communication, with that I can work very well in groups. My main specialties are front-end, HTML, CSS, JS and TS and also in frameworks for these technologies like React or vue.
+Uma das minhas principais qualidades é a comunicação, com isso consigo trabalhar muito bem em grupo. As minhas principais especialidades são front-end, HTML, CSS, JS e TS e também em frameworks para estas tecnologias como React ou vue.<br>
+<i></i>One of my main qualities is communication, with that I can work very well in groups. My main specialties are front-end, HTML, CSS, JS and TS and also in frameworks for these technologies like React or vue.</i>
 
 <h1>📚Tech Stack</h1>
 
