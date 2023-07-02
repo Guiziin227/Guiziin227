@@ -8,7 +8,7 @@ Eu sou Guilherme Weber, tenho 17 anos, nasci no Brasil, falo português e estou 
 
 <hr>
 
-<h1>Expertise</h1>
+<h1>📌Expertise</h1>
 <!--
 **Guiziin227/Guiziin227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
