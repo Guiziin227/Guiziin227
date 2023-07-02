@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr>
 Eu sou Guilherme Weber, tenho 17 anos, nasci no Brasil, falo português e estou aprendendo inglês. Sou estudante e apaixonado por desenvolvimento de software e tecnologias. Estudo por conta própria há mais de um ano e estou prestes a começar uma faculdade de informática. Estou à procura da minha primeira oportunidade o mais rápido possível.
 
 
