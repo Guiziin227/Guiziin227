@@ -32,7 +32,7 @@ Uma das minhas principais qualidades é a comunicação, com isso consigo trabal
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <a href="https://github.com/Guiziin227/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Guiziin227" (https://github-readme-stats.vercel.app/api?username=Guiziin227&show_icons=true&theme=dracula/>
+  <img height=200 align="center" true&theme=dracula src="https://github-readme-stats.vercel.app/api?username=Guiziin227" />
 </a>
 <a href="https://github.com/Guiziin227/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guiziin227&layout=compact&langs_count=8&card_width=320" (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula/>
