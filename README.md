@@ -4,7 +4,9 @@ Eu sou Guilherme Weber, tenho 17 anos, nasci no Brasil, falo português e estou 
 
 <i>I am Guilherme Weber, I am 17 years old, born in Brazil, speak Portuguese and am learning English. I am a student and passionate about software development and technologies. I have been self-studying for over a year and am about to start a computer science college. I am looking for my first opportunity as soon as possible.</i>
 
-
+<h1>✏Education</h1>
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+  
 <h1>📌Expertise</h1>
 Uma das minhas principais qualidades é a comunicação, com isso consigo trabalhar muito bem em grupo. As minhas principais especialidades são front-end, HTML, CSS, JS e TS e também em frameworks para estas tecnologias como React ou vue.<br>
 <i>One of my main qualities is communication, with that I can work very well in groups. My main specialties are front-end, HTML, CSS, JS and TS and also in frameworks for these technologies like React or vue.</i>
