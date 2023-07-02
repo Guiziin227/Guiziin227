@@ -29,7 +29,7 @@ Uma das minhas principais qualidades é a comunicação, com isso consigo trabal
 
 <h1>💻Socials:</h1>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&www.linkedin.com/in/guilherme-weber-henriques)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 <h1>GIT HUB STATS</h1>
