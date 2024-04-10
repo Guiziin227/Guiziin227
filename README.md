@@ -1,8 +1,8 @@
 ### Hi there 👋
 <hr>
-Eu sou Guilherme Weber, tenho 17 anos, nasci no Brasil, falo português e estou aprendendo inglês. Sou estudante e apaixonado por desenvolvimento de software e tecnologias. Estudo por conta própria há mais de um ano e estou prestes a começar uma faculdade de informática. Estou à procura da minha primeira oportunidade o mais rápido possível.<br>
+Eu sou Guilherme Weber, tenho 18 anos, nasci no Brasil, falo português e estou aprendendo inglês. Sou estudante e apaixonado por desenvolvimento de software e tecnologias. Estudo por conta própria há mais de um ano e estou prestes a começar uma faculdade de informática. Estou à procura da minha primeira oportunidade o mais rápido possível.<br>
 
-<i>I am Guilherme Weber, I am 17 years old, born in Brazil, speak Portuguese and am learning English. I am a student and passionate about software development and technologies. I have been self-studying for over a year and am about to start a computer science college. I am looking for my first opportunity as soon as possible.</i>
+<i>I am Guilherme Weber, I am 18 years old, born in Brazil, speak Portuguese and am learning English. I am a student and passionate about software development and technologies. I have been self-studying for over a year and am about to start a computer science college. I am looking for my first opportunity as soon as possible.</i>
 
 <h1>📌Expertise</h1>
 Uma das minhas principais qualidades é a comunicação, com isso consigo trabalhar muito bem em grupo. As minhas principais especialidades são front-end, HTML, CSS, JS e TS e também em frameworks para estas tecnologias como React ou vue.<br>
