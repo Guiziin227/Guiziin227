@@ -1,28 +1,17 @@
 ### Hi there 👋
 <hr>
-Eu sou Guilherme Weber, tenho 19 anos, nasci no Brasil, falo português e estou aprendendo inglês. Sou estudante e apaixonado por desenvolvimento de software e tecnologias. Estudo por conta própria há mais de um ano e estou prestes a começar uma faculdade de informática. Estou à procura da minha primeira oportunidade o mais rápido possível.<br>
-
-<i>I am Guilherme Weber, I am 19 years old, born in Brazil, speak Portuguese and am learning English. I am a student and passionate about software development and technologies. I have been self-studying for over a year and am about to start a computer science college. I am looking for my first opportunity as soon as possible.</i>
-
-<h1>📌Expertise</h1>
-Uma das minhas principais qualidades é a comunicação, com isso consigo trabalhar muito bem em grupo. As minhas principais especialidades são front-end, HTML, CSS, JS e TS e também em frameworks para estas tecnologias como React ou vue.<br>
-<i>One of my main qualities is communication, with that I can work very well in groups. My main specialties are front-end, HTML, CSS, JS and TS and also in frameworks for these technologies like React or vue.</i>
+Hey! I’m Guilherme. I mainly work with Golang, Spring Boot, and React. I love learning new technologies, building projects on my own, and of course, gaming to relax and get inspired. Always trying to improve a bit more every day.
 
 <h1>📚Tech Stack</h1>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  /> -->
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" title="Nest.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
 
 <h1>💻Socials:</h1>
