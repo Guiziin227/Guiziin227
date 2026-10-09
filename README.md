@@ -8,7 +8,7 @@
 
 ## About Me
  
-I'm a **5th semester Computer Science student** passionate about building things that actually work in the real world. I'm especially enthusiastic about **Spring Boot** and **Go** — and I'm always working on something new. If I'm not in class, I'm probably shipping code.
+I'm a **6th semester Computer Science student** passionate about building things that actually work in the real world. I'm especially enthusiastic about **Spring Boot** and **Go** — and I'm always working on something new. If I'm not in class, I'm probably shipping code.
 
 ## Tech Stack
 
